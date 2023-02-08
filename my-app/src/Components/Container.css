@@ -1,0 +1,45 @@
+.headerh {
+  display: flex;
+  justify-content: space-between;
+  background-color: #3a95f1;
+  color: white;
+  padding: 5px;
+  height: 30px;
+
+}
+.ccj {
+  display: flex;
+  justify-content: space-around;
+}
+
+:root {
+  --dark-shadow: 0 5px 15px rgba(19, 2, 2, 0.2);
+}
+.review {
+  margin-left: 10px;
+  padding: auto;
+  width: 76%;
+  height: 650px;
+  border-radius: 5px;
+  box-shadow: var(--dark-shadow);
+  border: 1px solid black;
+  margin-right: 20px;
+}
+.input {
+  margin-left: 10px;
+}
+.insturction {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: left;
+}
+.qu {
+  padding: 10px;
+  color: Blue;
+  text-transform: uppercase;
+}
+.ffff {
+  padding: 10px;
+  text-align: left;
+  font-family: "Times New Roman", Times, serif;
+}

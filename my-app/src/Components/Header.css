@@ -1,0 +1,8 @@
+.header {
+  background-color: #3a95f1;
+  color: white;
+  text-align: center;
+  border: 1px solid black;
+
+  height: fit-content;
+}

@@ -1,0 +1,37 @@
+.smallb2 {
+  background-color: white;
+  padding: 20px;
+  display: flex;
+  justify-content: left;
+  /* margin-right: 199px; */
+}
+.smallbc2 {
+  display: flex;
+  justify-content: left;
+}
+.btn2 {
+  text-transform: uppercase;
+  background-color: #3a95f1;
+  height: 40px;
+  cursor: pointer;
+  margin-left: 50px;
+  text-decoration: solid;
+  color: white;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+.hrline {
+  width: 100%;
+}
+
+.btn-active {
+  flex: 0.1;
+  background-color: blue;
+  height: 40px;
+  cursor: pointer;
+  margin-left: 50px;
+  text-decoration: solid;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
